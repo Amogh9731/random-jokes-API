@@ -37,7 +37,13 @@ npm install
 node index.js
 
 After running the last command, you should see:
-Server is running on http://localhost:3000
+
+    Server is running on http://localhost:3000
+
+Access the API:
+
+   Open your browser or Postman and make a GET request to:
+      http://localhost:3000/api/jokes/random
 
 
 
