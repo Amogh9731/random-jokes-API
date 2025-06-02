@@ -32,7 +32,7 @@ git clone https://github.com/Amogh9731/random-jokes-API.git
 
 cd random-jokes-API
 
-npm install
+npm install express
 
 node index.js
 
