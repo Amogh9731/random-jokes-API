@@ -29,8 +29,11 @@ Follow these steps to **clone**, **install**, and **run** the project locally.
 
 ### 📂 Clone, Install & Run the Project
 git clone https://github.com/Amogh9731/random-jokes-API.git
+
 cd random-jokes-API
+
 npm install
+
 node index.js
 
 After running the last command, you should see:
